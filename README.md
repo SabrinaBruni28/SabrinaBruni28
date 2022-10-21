@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!  I'm Sabrina Bruni 
+
+I'm here to post some things that i'm working for in university and whatever :kissing_closed_eyes:
 
 <!--
 **SabrinaBruni28/SabrinaBruni28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
