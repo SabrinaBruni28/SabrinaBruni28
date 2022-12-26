@@ -4,8 +4,8 @@ I'm here to post some things that i'm working for in university and whatever :ki
 
 <div align="center">
   <a href="https://github.com/SabrinaBruni28">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SabrinaBruni28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaBruni28&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaBruni28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaBruni28&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <!--
