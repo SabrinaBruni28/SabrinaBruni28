@@ -1,6 +1,6 @@
-### Hello!  I'm Sabrina Bruni 
+<h3>Hello!  I'm Sabrina Bruni</h3> 
 
-I'm here to post some things that i'm working for in university and whatever :kissing_closed_eyes:
+<p>I'm here to post some things that i'm working for in university and whatever :kissing_closed_eyes:</p>
 
 <div align="center">
   <a href="https://github.com/SabrinaBruni28">
