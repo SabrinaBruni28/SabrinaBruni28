@@ -1,9 +1,9 @@
 <h3>Hello!  I'm Sabrina Bruni</h3> 
 
-<p>I'm here to post some things that i'm working for in university and wherever :kissing_closed_eyes:</p>
+<p>I'm here to post some stuff i'm working on at university and wherever :kissing_closed_eyes:</p>
 
-- 👩‍🎓 I’m currently studying Computer Science at UFV-CAF;
-- 😄 Pronouns: she/her
+- :upside_down_face: I'm a girl who likes to study and learn new things;
+- 😄 Pronouns: she/her;
 
 <div align="center">
   <a href="https://github.com/SabrinaBruni28">
