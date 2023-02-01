@@ -1,6 +1,6 @@
 <h3>Hello!  I'm Sabrina Bruni</h3> 
 
-<p>I'm here to post some stuff i'm working on at university and wherever :kissing_closed_eyes:</p>
+<p>I'm here to post some stuff I'm working on at university and wherever :kissing_closed_eyes:</p>
 
 - :upside_down_face: I'm a girl who likes to study and learn new things;
 - 😄 Pronouns: she/her;
