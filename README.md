@@ -29,5 +29,5 @@
 
 ### 🐍 Snake eating my contributions
 
-![Snake animation](https://github.com/SabrinaBruni28/SabrinaBruni28/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](github-contribution-grid-snake.svg)
 
