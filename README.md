@@ -1,17 +1,24 @@
 ### 👋 Olá! Eu sou a Sabrina Bruni
 
-🎓 Graduada em Ciência da Computação e apaixonada por tecnologia, programação e desenvolvimento de software.
+🎓 Graduada em Ciência da Computação.
 
-🔧 Aqui você encontra projetos que desenvolvi na faculdade e também outras experiências que me ajudam a evoluir como desenvolvedora.
+💻 Desenvolvedora Full Stack apaixonada por criar soluções que resolvem problemas reais.
 
-🚀 Em constante aprendizado em todas as áreas.
+🚀 Sempre em busca de novos desafios e aprendizado contínuo.
 
-<div align="center">
-  <a href="https://github.com/SabrinaBruni28">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SabrinaBruni28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaBruni28&layout=compact&langs_count=10&theme=tokyonight"/>
-  </a>
-</div>
+## 💻 Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🐍 Snake eating my contributions
+
+![Snake animation](github-contribution-grid-snake.svg)
 
 ### 📫 Me encontre por aqui:
 
@@ -26,8 +33,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
-
-### 🐍 Snake eating my contributions
-
-![Snake animation](github-contribution-grid-snake.svg)
-
