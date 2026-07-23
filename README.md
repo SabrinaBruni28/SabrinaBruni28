@@ -1,8 +1,8 @@
 ### 👋 Olá! Eu sou a Sabrina Bruni
 
-🎓 Estudante universitária apaixonada por tecnologia, programação e desenvolvimento de software.
+🎓 Graduada em Ciência da Computação e apaixonada por tecnologia, programação e desenvolvimento de software.
 
-🔧 Aqui você encontra projetos que estou desenvolvendo na faculdade e também outras experiências que me ajudam a evoluir como desenvolvedora.
+🔧 Aqui você encontra projetos que desenvolvi na faculdade e também outras experiências que me ajudam a evoluir como desenvolvedora.
 
 🚀 Em constante aprendizado em todas as áreas.
 
